@@ -5,6 +5,8 @@
 //  Created by William Allen on 10/23/21.
 //
 
+// PROBLEM: showAnswer toggles all the answers at once.
+
 import SwiftUI
 
 struct ItemsView: View {
